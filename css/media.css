@@ -1,0 +1,10 @@
+@media only screen and (max-width: 500px) {
+
+      #imagen-principal {
+        width: 40px;
+        height: 40px;
+        display: flex;
+        justify-content: center;
+    }
+
+}

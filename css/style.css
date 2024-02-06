@@ -1,0 +1,302 @@
+*{
+
+    padding:0;
+    
+    margin:0;
+    
+    }
+
+#listas {
+    display: flex;
+    display: inline-block;
+    flex-wrap: wrap;
+    list-style-type: none;
+    font-size: large;
+    padding-bottom: 25px;
+    padding-top: 20px;
+    transform: translateX(430px);
+}
+
+.listas {
+    display: flex;
+    display: inline-block;
+    flex-wrap: wrap;
+    list-style-type: none;
+    font-size: large;
+    padding-bottom: 25px;
+    padding-top: 20px;
+    transform: translateX(480px);
+}
+
+.listass {
+    display: flex;
+    display: inline-block;
+    flex-wrap: wrap;
+    list-style-type: none;
+    font-size: large;
+    padding-bottom: 25px;
+    padding-top: 20px;
+    transform: translateX(505px);
+}
+
+.listasss {
+    display: flex;
+    display: inline-block;
+    flex-wrap: wrap;
+    list-style-type: none;
+    font-size: large;
+    padding-bottom: 25px;
+    padding-top: 20px;
+    transform: translateX(480px);
+}
+
+.listassss {
+    display: flex;
+    display: inline-block;
+    flex-wrap: wrap;
+    list-style-type: none;
+    font-size: large;
+    padding-bottom: 25px;
+    padding-top: 20px;
+    transform: translateX(480px);
+}
+
+#linkimg {
+    display: flex;
+    flex-wrap: wrap;
+    display: inline-block;
+    transform: translateX(65px);
+}
+
+#hab-Disponibles {
+    color: red;
+    font-size: normal;
+    font-weight: bolder;
+    text-align: center;
+}
+
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    text-align: center;
+}
+
+#sectionW {
+    display: flex;
+    position: sticky;
+    top: 1px;
+    z-index: 20;
+}
+
+#sectionWW {
+    display: flex;
+    position: sticky;
+    top: 1px;
+    z-index: 20;
+}
+
+#sectionWWW {
+    display: flex;
+    position: sticky;
+    top: 1px;
+    z-index: 20;
+}
+
+#sectionWWWW {
+    display: flex;
+    position: sticky;
+    top: 1px;
+    z-index: 20;
+}
+
+#whatflex {
+    display: flex;
+    position: sticky;
+    top: 0px;
+    z-index: 20;
+    width: 45px;
+    height: 45px;
+    transform: translateX(1240px)
+    translateY(-1405px)
+}
+
+#whatflexx {
+    display: flex;
+    position: sticky;
+    top: 0px;
+    z-index: 20;
+    width: 45px;
+    height: 45px;
+    transform: translateX(1240px)
+    translateY(-615px)
+}
+
+#whatflexxx {
+    display: flex;
+    position: sticky;
+    top: 0px;
+    z-index: 20;
+    width: 45px;
+    height: 45px;
+    transform: translateX(1240px)
+    translateY(-535px)
+}
+
+#whatflexxxx {
+    display: flex;
+    position: sticky;
+    top: 0px;
+    z-index: 20;
+    width: 45px;
+    height: 45px;
+    transform: translateX(1240px)
+    translateY(-180px)
+}
+
+#section-container {
+    display: flex;
+    position: sticky;
+    top: 0px;
+    z-index: 20;
+    color: #d49542;
+    background-color: #dfbe94;
+    border: 1px none black;
+    justify-content: center;
+    margin-bottom: 0%;
+    padding: 5px;
+}
+
+#section-nosotros {
+    display: flex;
+    position: sticky;
+    top: 0px;
+    z-index: 20;
+    color: #d49542;
+    background-color: #dfbe94;
+    border: 1px none black;
+    justify-content: center;
+    margin-bottom: 0%;
+    padding: 5px;
+}
+
+#section-disponibilidad {
+    display: flex;
+    position: sticky;
+    top: 0px;
+    z-index: 20;
+    color: #d49542;
+    background-color: #dfbe94;
+    border: 1px none black;
+    justify-content: center;
+    margin-bottom: 0%;
+    padding: 5px;
+}
+
+
+#section-politicas {
+    display: flex;
+    position: sticky;
+    top: 0px;
+    z-index: 20;
+    color: #d49542;
+    background-color: #dfbe94;
+    border: 1px none black;
+    justify-content: center;
+    margin-bottom: 0%;
+    padding: 5px;
+}
+
+.Hotel-R {
+    display: flex;
+    font-size: xx-large;
+    align-items: center;
+}
+
+
+footer h4 {
+    font-size: small;
+    text-align: right;
+}
+
+#vermas {
+    display: flex;
+    text-align: center;
+    font-size: normal;
+    padding-top: 20px;
+    padding-bottom: 25px;
+    transform: translateX(600px);
+}
+
+#imagen-principal {
+    display: flex;
+    flex-wrap: wrap;
+    height: fit-content;
+    width: fit-content;
+    transform: translateX(35%);
+}
+
+#carousell {
+    display: flex;
+    width: 45%;
+}
+
+#imgscroll {
+    display: flex;
+    transform: translateX(300px)
+}
+
+#imgscrolll {
+    display: flex;
+    transform: translateX(400px);
+}
+
+main nav a img {
+    width: 18%;
+    
+}
+
+#ubicacion {
+    width: 45%;
+    display: flex;
+    transform: translateX(420px);
+}
+
+#quien {
+    display: flex;
+    border: 1px none black;
+    justify-content: center;
+    margin-bottom: 0%;
+    padding: 10px;
+}
+
+#habdisp {
+    display: flex;
+    border: 1px none black;
+    justify-content: center;
+    margin-bottom: 0%;
+    padding: 10px;
+}
+
+#politicas {
+    display: flex;
+    border: 1px none black;
+    justify-content: center;
+    margin-bottom: 0%;
+    padding: 10px;
+}
+
+#contacto {
+    display: flex;
+    border: 1px none black;
+    justify-content: center;
+    margin-bottom: 0%;
+    padding: 10px;
+}
+
+#Lorem {
+    display: flex;
+    flex-wrap: wrap;
+    font-size: small;
+    flex-direction: column;
+}
